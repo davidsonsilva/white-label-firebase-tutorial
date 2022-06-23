@@ -1,14 +1,14 @@
 # Vídeo 0
 ## Tarefas
-- [ ] Apresentar o conteúdo a ser ministrado e como o projeto vai ser desenvolvido
+- [X] Apresentar o conteúdo a ser ministrado e como o projeto vai ser desenvolvido
 
 # Vídeo 1
 ## Tarefas
 
-- [ ] Clonar o projeto do GitHub e passar uma visão geral da estrutura do projeto
-- [ ] Configurar os flavors e as dimensões de flavors no arquivo build.gradle do módulo app: Flavors => bike, car, client, admin - Dimensões => product, side
-- [ ] Criar as pastas dos flavors dentro da pasta src do módulo app
-- [ ] Criar os ícones de launcher correspondentes aos flavors usando o recurso do Android Studio chamado Image Asset
+- [X] Clonar o projeto do GitHub e passar uma visão geral da estrutura do projeto
+- [X] Configurar os flavors e as dimensões de flavors no arquivo build.gradle do módulo app: Flavors => bike, car, client, admin - Dimensões => product, side
+- [X] Criar as pastas dos flavors dentro da pasta src do módulo app
+- [X] Criar os ícones de launcher correspondentes aos flavors usando o recurso do Android Studio chamado Image Asset
 
 # Vídeo 2
 ## Tarefas
