@@ -13,7 +13,7 @@
 # Vídeo 2
 ## Tarefas
 
-- [ ] Configurar o projeto no Firebase com 4 aplicativos e importar o arquivo google-services.json para o projeto. Configurar o projeto com o plugin do Firebase.
+- [X] Configurar o projeto no Firebase com 4 aplicativos e importar o arquivo google-services.json para o projeto. Configurar o projeto com o plugin do Firebase.
 
 # Vídeo 3
 ## Tarefas
