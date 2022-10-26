@@ -18,12 +18,12 @@
 # Vídeo 3
 ## Tarefas
 
-- [ ] Visão geral sobre a Clean Architecture
-- [ ] Criar as camadas de dados e domínio
+- [X] Visão geral sobre a Clean Architecture
+- [X] Criar as camadas de dados e domínio
 - domain/model/**
 - domain/usecase/**
 - data/**
-- [ ] Implementação inicial da classe modelo, casos de usos e repositórios (abstração)
+- [X] Implementação inicial da classe modelo, casos de usos e repositórios (abstração)
 
 # Vídeo 4
 ## Tarefas
