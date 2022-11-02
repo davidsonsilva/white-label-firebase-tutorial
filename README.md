@@ -43,7 +43,7 @@
 # Vídeo 7
 ## Tarefas
 
-- [ ] Implementar o layout da tela adicionar produto
+- [X] Implementar o layout da tela adicionar produto
 
 # Vídeo 8
 ## Tarefas
