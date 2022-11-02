@@ -48,8 +48,8 @@
 # Vídeo 8
 ## Tarefas
 
-- [ ] Implementar os listeners do formulários
-- [ ] Obter o imageUri de uma foto usando ActvityResultContracts.GetContents()
+- [X] Implementar os listeners do formulários
+- [X] Obter o imageUri de uma foto usando ActvityResultContracts.GetContents()
 
 # Vídeo 9
 ## Tarefas
