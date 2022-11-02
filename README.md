@@ -38,7 +38,7 @@
 # Vídeo 6
 ## Tarefas
 
-- [ ] Implementar todos os casos de uso da aplicação
+- [X] Implementar todos os casos de uso da aplicação
 
 # Vídeo 7
 ## Tarefas
