@@ -54,7 +54,7 @@
 # Vídeo 9
 ## Tarefas
 
-- [ ] Implementar o view model da tela Adicionar Produto
+- [X] Implementar o view model da tela Adicionar Produto
 
 # Vídeo 10
 ## Tarefas
