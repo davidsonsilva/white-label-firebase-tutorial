@@ -28,7 +28,7 @@
 # Vídeo 4
 ## Tarefas
 
-- [ ] Implementar a fonte de dados para cadastrar e consultar os produtos no Firebase
+- [X] Implementar a fonte de dados para cadastrar e consultar os produtos no Firebase
 
 # Vídeo 5
 ## Tarefas
