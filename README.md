@@ -59,7 +59,7 @@
 # Vídeo 10
 ## Tarefas
 
-- [ ] Configurar a biblioteca de injeção de dependência no Projeto (DaggerHilter)
+- [X] Configurar a biblioteca de injeção de dependência no Projeto (DaggerHilter)
 
 # Vídeo 11
 ## Tarefas
