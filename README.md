@@ -64,8 +64,8 @@
 # Vídeo 11
 ## Tarefas
 
-- [ ] Iniciar os serviços do Firebase (Firestore e Storage)
-- [ ] Testar o cadastro de produtos pelo aplicativo
+- [X] Iniciar os serviços do Firebase (Firestore e Storage)
+- [X] Testar o cadastro de produtos pelo aplicativo
 
 # Vídeo 12
 ## Tarefas
