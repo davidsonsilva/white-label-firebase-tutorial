@@ -82,7 +82,7 @@
 # Vídeo 14
 ## Tarefas
 
-- [ ] Permitir que apenas os aplicativos que são Admin's mostrem o botão de cadastrar produto
+- [X] Permitir que apenas os aplicativos que são Admin's mostrem o botão de cadastrar produto
 
 # Vídeo 15
 ## Tarefas
