@@ -70,8 +70,8 @@
 # Vídeo 12
 ## Tarefas
 
-- [ ] Implementar o layout da tela de listagem de produtos
-- [ ] Implementar o adapter da listagem de produtos
+- [X] Implementar o layout da tela de listagem de produtos
+- [X] Implementar o adapter da listagem de produtos
 
 # Vídeo 13
 ## Tarefas
