@@ -87,8 +87,8 @@
 # Vídeo 15
 ## Tarefas
 
-- [ ] Navegar para a tela de cadastro
-- [ ] Atualizar listagem de produtos ao adicionar um novo produto usando o navBackStackEntry
+- [X] Navegar para a tela de cadastro
+- [X] Atualizar listagem de produtos ao adicionar um novo produto usando o navBackStackEntry
 
 # Vídeo 16
 ## Tarefas
