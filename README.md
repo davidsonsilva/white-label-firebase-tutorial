@@ -76,8 +76,8 @@
 # Vídeo 13
 ## Tarefas
 
-- [ ] Vincular o adapter com o recycler view de produtos
-- [ ] Implementar o view model para buscar os produtos
+- [X] Vincular o adapter com o recycler view de produtos
+- [X] Implementar o view model para buscar os produtos
 
 # Vídeo 14
 ## Tarefas
