@@ -103,4 +103,4 @@
 # Vídeo 18
 ## Tarefas
 
-- [ ] Definir e utilizar a paleta de cores do projeto Bike
+- [X] Definir e utilizar a paleta de cores do projeto Bike
