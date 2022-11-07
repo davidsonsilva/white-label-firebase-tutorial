@@ -93,7 +93,7 @@
 # Vídeo 16
 ## Tarefas
 
-- [ ] Swipe to refresh - atualização da listagem de produtos
+- [X] Swipe to refresh - atualização da listagem de produtos
 
 # Vídeo 17
 ## Tarefas
