@@ -98,7 +98,7 @@
 # Vídeo 17
 ## Tarefas
 
-- [ ] Definir e utilizar a paleta de cores do projeto Carro
+- [X] Definir e utilizar a paleta de cores do projeto Carro
 
 # Vídeo 18
 ## Tarefas
